@@ -1,0 +1,1 @@
+export const BASE_URL = "https://palmnest-backend-i9mj.vercel.app";
