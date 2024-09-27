@@ -89,7 +89,7 @@ const Contact = () => {
                   </div>
                   <div className="d-flex align-items-center mb-3">
                     <BsFillTelephoneFill className="fs-5" />
-                    <p className="m-1">+91 9422518816 & +91 9422517750</p>
+                    <p className="m-1">+91 9579976241 / +91 9422517750 / +91 9422518816</p>
                   </div>
                   <div className="d-flex align-items-center">
                     <MdEmail className="fs-5" />
