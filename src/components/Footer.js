@@ -72,7 +72,14 @@ const Footer = () => {
           </div>
           <div className="col-lg-4 mt-4">
             <h5 className="mb-4 fw-bold">FIND US ON GOOGLE MAP</h5>
-            <iframe width="100%" height="280" id="gmap_canvas" src="https://maps.google.com/maps?width=520&amp;height=400&amp;hl=en&amp;q=The%20Palmnest%20farm,%20Kolhapur-Goa%20road,%20Taluka:%20Gaganbawda,%20Khokurle,%20Maharashtra%20416206%20Pune+()&amp;t=&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe><a href='https://maps-generator.com/'>.</a>
+            <iframe
+              title="Palmnest Farm location on Google Maps"
+              width="100%"
+              height="280"
+              id="gmap_canvas"
+              src="https://maps.google.com/maps?width=520&amp;height=400&amp;hl=en&amp;q=The%20Palmnest%20farm,%20Kolhapur-Goa%20road,%20Taluka:%20Gaganbawda,%20Khokurle,%20Maharashtra%20416206%20Pune+()&amp;t=&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
+            ></iframe>
+            <a href="https://maps-generator.com/">.</a>
           </div>
         </div>
       </div>
