@@ -1,5 +1,4 @@
 import React from "react";
-import { Carousel } from "bootstrap";
 import ImageLayout from "./Resources/ImageLayout";
 import aboutBanner from "../images/New Images/ourStory.jpg"
 
