@@ -1,8 +1,6 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 import aboutImg from "../images/New Images/homePage_aboutImg.jpg"
-import Carousel from 'react-bootstrap/Carousel';
 import Slider from "react-slick";
-import axios from "axios";
 import homeImg1 from "../images/New Images/Home Slider/homeSlider1.jpg"
 import homeImg2 from "../images/New Images/Home Slider/homeSlider2.jpg"
 import homeImg3 from "../images/New Images/Home Slider/homeSlider3.jpg"
@@ -19,7 +17,6 @@ const Home = () => {
 
   var settings = {
     dots: true,
-    infinite: false,
     speed: 500,
     slidesToShow: 4,
     slidesToScroll: 1,
@@ -86,7 +83,7 @@ const Home = () => {
       <div className="container">
         <div className="row d-flex justify-content-center ">
           <div className="col-lg-6">
-            <img src={aboutImg} alt="Image" className="img-fluid" />
+            <img src={aboutImg} alt="About Palmnest Resort" className="img-fluid" />
           </div>
           <div className="col-lg-6">
             <p className="mt-2" style={{ textAlign: "justify", fontSize: "17px", lineHeight: "35px" }}>
