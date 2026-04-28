@@ -9,12 +9,13 @@ import NearestAttraction from "./components/NearestAttraction";
 import Restaurant from "./components/Restaurant";
 import Contact from "./components/Contact";
 import Gallery from "./components/Resources/Gallery";
-import ImageGallery from "./components/Resources/ImageGallery";
+// import ImageGallery from "./components/Resources/ImageGallery";
 import Testimonials from "./components/Resources/Testimonials";
 import Blog from "./components/Resources/Blog";
 import AllBlogs from "./components/Resources/AllBlog";
 import Tents from "./components/Accomodation/Tents";
 import Cottages from "./components/Accomodation/Cottages";
+import FloatingWhatsApp from "./components/FloatingWhatsApp";
 import './App.css';
 const App = () => {
   return (
@@ -35,6 +36,7 @@ const App = () => {
         <Route path="/cottages" element={<Cottages />} />
       </Routes>
       <Footer />
+      <FloatingWhatsApp />
       {/* <h3 className="text-center">
         <span color="red">Error 404: </span> Not Found!{' '}
       </h3> */}
