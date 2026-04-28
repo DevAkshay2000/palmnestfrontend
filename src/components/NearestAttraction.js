@@ -29,7 +29,7 @@ const NearestAttraction = () => {
           <div className="row mt-5 g-4 d-flex justify-content-center">
             <div className="col-lg-4 col-sm-6 d-flex justify-content-center">
               <div class="card" style={{ width: "18rem" }}>
-                <img class="card-img-top" src={ramling} alt="Card image cap" />
+                <img class="card-img-top" src={ramling} alt="Ramling Caves" />
                 <div class="card-body">
                   <h5 class="card-title">Ramling Caves (9 KM Away)</h5>
                   <p class="card-text">A Photographer's Paradise which consists of monolithic temples that are said to be made by Pandavas.</p>
@@ -39,7 +39,7 @@ const NearestAttraction = () => {
 
             <div className="col-lg-4 col-sm-6 d-flex justify-content-center">
               <div class="card" style={{ width: "18rem" }}>
-                <img class="card-img-top" src={dam} alt="Card image cap" />
+                <img class="card-img-top" src={dam} alt="Andur Dam" />
                 <div class="card-body">
                   <h5 class="card-title">Andur Dam</h5>
                   <p class="card-text">Minor Dam with scenic backwater which is just 3 Km away from the palmnest.</p>
@@ -49,7 +49,7 @@ const NearestAttraction = () => {
 
             <div className="col-lg-4 col-sm-6 d-flex justify-content-center">
               <div class="card" style={{ width: "18rem" }}>
-                <img class="card-img-top" src={fort} alt="Card image cap" />
+                <img class="card-img-top" src={fort} alt="Fort Gagangiri" />
                 <div class="card-body">
                   <h5 class="card-title">Fort Gagangiri (16KM)</h5>
                   <p class="card-text">Residing the Ashram of Saint Gagangiri Maharaj. Ancient fort of Chatrapati Shivaji Maharaj.</p>
@@ -59,7 +59,7 @@ const NearestAttraction = () => {
 
             <div className="col-lg-4 col-sm-6 d-flex justify-content-center">
               <div class="card" style={{ width: "18rem" }}>
-                <img class="card-img-top" src={karulGhat} alt="Card image cap" />
+                <img class="card-img-top" src={karulGhat} alt="Karul Ghat" />
                 <div class="card-body">
                   <h5 class="card-title">Karul Ghat</h5>
                   <p class="card-text">Beautiful and very scenic in monsoon, Number of waterfall fall down in this Ghat in rainy season with dense Forest.</p>
@@ -69,7 +69,7 @@ const NearestAttraction = () => {
 
             <div className="col-lg-4 col-sm-6 d-flex justify-content-center">
               <div class="card" style={{ width: "18rem" }}>
-                <img class="card-img-top" src={kumbhiDam} alt="Card image cap" />
+                <img class="card-img-top" src={kumbhiDam} alt="Kumbhi Dam" />
                 <div class="card-body">
                   <h5 class="card-title">Kumbhi Dam (12KM Away)</h5>
                   <p class="card-text">Medium Dam project of 3DMC with a beautiful view and great ambiance in the evening.</p>
@@ -79,7 +79,7 @@ const NearestAttraction = () => {
 
             <div className="col-lg-4 col-sm-6 d-flex justify-content-center">
               <div class="card" style={{ width: "18rem" }}>
-                <img class="card-img-top" src={veserafDam} alt="Card image cap" />
+                <img class="card-img-top" src={veserafDam} alt="Vesaraf Dam" />
                 <div class="card-body">
                   <h5 class="card-title">Vesaraf Dam</h5>
                   <p class="card-text">A minor Dam with good scenic area only 8 Km away from the palmnest farm.</p>
@@ -88,7 +88,7 @@ const NearestAttraction = () => {
             </div>
             <div className="col-lg-4 col-sm-6 d-flex justify-content-center">
               <div class="card" style={{ width: "18rem" }}>
-                <img class="card-img-top" src={mojrai} alt="Card image cap" />
+                <img class="card-img-top" src={mojrai} alt="Morjai Pathar" />
                 <div class="card-body">
                   <h5 class="card-title">Morjai Pathar (15KM Away)</h5>
                   <p class="card-text">A highland plateau with a temple for warrior goddess Morjai Devi in an underground cave.</p>
