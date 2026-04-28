@@ -67,7 +67,7 @@ const Contact = () => {
             <div className="bg-light h-100 ms-2 ">
               <img
                 src={contactImg}
-                alt="your-image-description"
+                alt="Palmnest Resort contact"
                 className="img-fluid"
               />
             </div>
@@ -153,6 +153,7 @@ const Contact = () => {
 
       <div className="d-flex justify-content-center align-items-center ">
         <iframe
+          title="Palmnest Farm location on Google Maps"
           width="100%"
           height="500"
           id="gmap_canvas"
