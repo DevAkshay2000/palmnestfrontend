@@ -1,6 +1,5 @@
 import React from "react";
 import { FaAdn, FaCrown } from "react-icons/fa";
-import { Link } from "react-router-dom";
 // import Blog1 from "../img/b1.webp"
 
 const Blog = () => {
