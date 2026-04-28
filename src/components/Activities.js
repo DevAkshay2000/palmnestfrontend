@@ -1,8 +1,6 @@
 import React, { useEffect, useState } from "react";
 import "./Activities.css";
 import axios from "axios";
-import ImageLayout from "./Resources/ImageLayout";
-import activityBanner from "../images/New Images/activitiesCover.jpg";
 import Slider from "react-slick";
 import act1 from "../images/New Images/Activity Slider/act1.jpg";
 import act2 from "../images/New Images/Activity Slider/act2.jpg";
@@ -31,7 +29,6 @@ const Activities = () => {
 
   var settings = {
     dots: true,
-    infinite: false,
     speed: 500,
     slidesToShow: 4,
     slidesToScroll: 1,
