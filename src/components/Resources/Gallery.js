@@ -72,7 +72,7 @@ const Gallery = () => {
                   <div>
                     <img
                       src={val.image.url}
-                      alt="image"
+                      alt="Gallery"
                       className="img-fluid"
                     />
                   </div>
