@@ -36,8 +36,8 @@ const App = () => {
         <Route path="/cottages" element={<Cottages />} />
       </Routes>
       <Footer />
-      // <FloatingWhatsApp />
       {/* <h3 className="text-center">
+        <FloatingWhatsApp />
         <span color="red">Error 404: </span> Not Found!{' '}
       </h3> */}
     </>
