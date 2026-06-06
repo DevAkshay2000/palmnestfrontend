@@ -15,7 +15,7 @@ import Blog from "./components/Resources/Blog";
 import AllBlogs from "./components/Resources/AllBlog";
 import Tents from "./components/Accomodation/Tents";
 import Cottages from "./components/Accomodation/Cottages";
-import FloatingWhatsApp from "./components/FloatingWhatsApp";
+// import FloatingWhatsApp from "./components/FloatingWhatsApp";
 import './App.css';
 const App = () => {
   return (
@@ -36,7 +36,7 @@ const App = () => {
         <Route path="/cottages" element={<Cottages />} />
       </Routes>
       <Footer />
-      <FloatingWhatsApp />
+      // <FloatingWhatsApp />
       {/* <h3 className="text-center">
         <span color="red">Error 404: </span> Not Found!{' '}
       </h3> */}
